@@ -1,0 +1,9 @@
+[submodule "modules/custom/effective_activism"]
+	path = modules/custom/effective_activism
+	url = https://github.com/EffectiveActivism/effective_activism
+[submodule "profiles/Install-profile"]
+	path = profiles/Install-profile
+	url = https://github.com/ActiveForAnimals/Install-profile
+[submodule "profiles/activeforanimals"]
+	path = profiles/activeforanimals
+	url = https://github.com/ActiveForAnimals/activeforanimals
